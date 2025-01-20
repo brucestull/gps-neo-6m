@@ -2,9 +2,7 @@
 
 - [NEO-6M GPS Coordinates](https://chatgpt.com/share/678e56d7-ec68-8002-a3c1-4ac879d6a0ec)
 
-```
 Please provide sample circuitpythin code to read the gps coordinates of "Satellite Positioning NEO-6M"?
-```
 
 Below is a sample CircuitPython code to read GPS coordinates from a "Satellite Positioning NEO-6M" GPS module using the `adafruit_gps` library. Ensure that your GPS module is correctly connected to your board's UART pins.
 
